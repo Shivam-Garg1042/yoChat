@@ -1,4 +1,4 @@
-# CHATTERRSS : Real Time Chat App | JWT, Socket.io
+# yoChat : Real Time Chat App | JWT, Socket.io
 
 Some Features:
 
